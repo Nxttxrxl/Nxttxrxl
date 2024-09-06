@@ -9,7 +9,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=azure,sass,md,vscode,vite,ts,tailwind,react,postman,ps,nodejs,mysql,eclipse,maven,java,jquery,js,html,css,bootstrap,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,sass,md,vscode,vite,ts,tailwind,react,postman,ps,nodejs,mysql,eclipse,spring,maven,java,jquery,js,html,css,bootstrap,github,git)](https://skillicons.dev)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
