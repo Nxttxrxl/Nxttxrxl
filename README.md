@@ -3,7 +3,7 @@
 
 
 ✉️ &nbsp;Puedes escribirme un <a href="mailto:anouarkajajrosario@gmail.com">email<a/>, intentaré responder lo antes posible.\
-📄 &nbsp;Echa un vistazo a mi [Currículum](https://drive.google.com/file/d/1OegpWPVhnv2Z57FObO1gp15ENNq0PeWW/view) para ver más detalles sobre mí. Estoy abierto a comentarios y sugerencias.
+📄 &nbsp;Echa un vistazo a mi [LinkedIn](https://drive.google.com/file/d/1OegpWPVhnv2Z57FObO1gp15ENNq0PeWW/view) para ver más detalles sobre mí. Estoy abierto a comentarios y sugerencias.
 
 
 
@@ -24,4 +24,3 @@
 
 
 
-Last Edited on: 06/09/2024
