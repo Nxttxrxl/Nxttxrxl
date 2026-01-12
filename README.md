@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-anouarkajajrosario@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1C-MYKZ61IVT0hfkTleuGcUzI0wCf7Jy5/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1YlDP1Np6K79ijByZ63WsUymIiH_hUO9g/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV-Ver%20Curr%C3%ADculum-4CAF50?style=flat&logo=google-drive&logoColor=white"/>
   </a>
 </p>
